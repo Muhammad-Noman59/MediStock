@@ -97,16 +97,6 @@ This project has been full of learning opportunities and has helped me grow as a
     flask run
     ```
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
 ## Supporting
 - **Financial Support**
 <p align="left">  <a href="https://coindrop.to/muhammad-noman59" target="blank"><img align="center" src="https://github.com/Muhammad-Noman59/Tip-And-Bill-Calculator/assets/164490322/ee086675-e265-4457-a07e-9d2d7ad9e671" height="100" width="250" /></a></p>
