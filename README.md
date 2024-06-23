@@ -65,7 +65,7 @@ This project has been full of learning opportunities and has helped me grow as a
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/MediStock.git
+    git clone https://github.com/Muhammad-Noman59/MediStock.git
     ```
 
 2. **Open in Android Studio**:
