@@ -52,7 +52,20 @@ Developing MediStock has been an amazing learning experience. Here are some of t
 
 This project has been full of learning opportunities and has helped me grow as a developer.
 
+## Download APKs
+
+You can download the APKs for the User and Admin apps from the links below:
+
+- [Download User App APK](https://github.com/Muhammad-Noman59/MediStock/releases/download/1.1/MediStock.apk)
+- [Download Admin App APK](https://github.com/Muhammad-Noman59/MediStock/releases/download/1.1/AdminOfMediStock.apk)
+
+
 ## Getting Started
+
+### API Hosting
+
+The backend APIs for MediStock are hosted on PythonAnywhere. Ensure to update your base URL in the Retrofit configuration to point to the hosted API.
+
 
 ### Prerequisites
 
