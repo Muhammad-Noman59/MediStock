@@ -24,7 +24,30 @@ This project is developed solely for learning purposes. It is not secure and sho
 
 [Download MediStock App Video](https://github.com/Muhammad-Noman59/MediStock/raw/master/MediStock%20App%20Video.mp4)
 
+## Screenshots
 
+Here are some screenshots from the MediStock app:
+
+<p float="left">
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image.png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(5).png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(7).png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(6).png" width="200" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1.png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(8).png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(1).png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(3).png" width="200" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(4).png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(2).png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(11).png" width="200" />
+  <img src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/image1(10).png" width="200" />
+</p>
 
 ## Technology Stack
 
