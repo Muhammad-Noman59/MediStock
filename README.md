@@ -22,7 +22,9 @@ This project is developed solely for learning purposes. It is not secure and sho
 - **Product Management**: Admins can add, view, and manage products available for orders.
 - **Order Approval**: Admins can approve or disapprove orders placed by users.
 
-[Download MediStock App Video](https://github.com/Muhammad-Noman59/MediStock/raw/master/MediStock%20App%20Video.mp4)
+[Download MediStock App Video](https://github.com/Muhammad-Noman59/MediStock/raw/0cbf24139d9b334c09a9cacaaeccfaf0fc667b28/MediStock%20App%20Video.mp4?download=)
+
+
 
 ## Screenshots
 
