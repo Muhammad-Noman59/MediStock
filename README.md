@@ -1,3 +1,8 @@
+ <img alt="gfi" src="https://github.com/Muhammad-Noman59/MediStock/blob/master/Screen%20Shots/MediStock-Cover.png">
+
+
+
+
 # MediStock
 
 **MediStock** is an educational Android application for inventory management, developed as a learning project. The application consists of two separate apps: a **User app** and an **Admin app**, with backend APIs built using Flask and hosted on PythonAnywhere.
